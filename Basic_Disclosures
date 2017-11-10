@@ -1,0 +1,41 @@
+This brief disclosure document is a starting point for general disclosures related to individual cryptoasset projects. We have drafted a list of simple, non-controversial, objective, and verifiable disclosures which we believe would be materially helpful to crypto users who are evaluating new projects and the merits of their associated cryptoassets. We welcome comments and additional contributions to this list.
+
+1) CryptoAsset Overview
+Project Mission and Description 
++ 1000 characters max (wikipedia intro length) - No marketing language and limited jargon; Messari team will approve submissions (a la CB Insights)
+
+Organizational Structure
++ Who are the primary issuing and supporting organizations for the project? 
++ Where and how are these entities structured?
++ Who controls and governs these entities? (OPTIONAL for opsec reasons)
+
+Verified Project Web Assets 
++ Project website & token sale information
++ Github repo
++ Final white paper (at token issuance) and link to where / how updates are documented
++ Social media links (twitter, telegram, reddit, slack) - prevent spamming
+
+2) Envisioned Post-Token Issuance “Cap Table”
+Token Distribution “Snapshot”
++ Date of token distribution and total funding raised by funding type
++ Tokens authorized and outstanding by “class” (corporate reserves vs. foundation reserves, founder/ employee/ advisor, SAFT, public sale, etc.)
++ Associated vesting and lock-up schedules per class of token
++ Anticipated fully-diluted supply curves (e.g. Filecoin illustration)
+
+
+3) Proceeds Management
+Operating Treasury Policies
++ ETH, BTC, Fiat balances 
++ Liquidation plans to cover operating expenses; hedging instruments for BTC/ETH
+
+Token Treasury Policies
++ Secondary sales rules (e.g. XRP monthly liquidation windows)
++ Hedging instruments for reserved tokens?
++ Budgeted and Authorized Distribution Pools
++ Time frames, amounts, and type of distributions (periodic lockup release, one time lockup release, governed by smart contract, token vesting, milestone based, etc)
++ Who custodies reserve tokens and treasury balances? (OPTIONAL for opsec reasons) 
+
+Post-ICO Commitment to Financial Reporting
++ How frequently will you plan on filing ongoing financial reports (if at all)? 
++ Will these reports be filed into the Messari database? Where will they be posted?
++ Will you conduct an annual audit?
