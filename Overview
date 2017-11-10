@@ -1,0 +1,21 @@
+Consolidating Token Transparency and Reporting Standards Initiatives
+Draft by: Miko Matsumura, Ryan Selkis
+Last Update: November 10, 2017
+
+Overview:
+We are collaborating with some of crypto’s leading transparency advocates to build Messari, an open-source EDGAR database for cryptoassets. The project aims to create a much-needed, single source of truth for basic cryptoasset financial information that can be accessed by media, developers, investors, and regulators alike. We are currently recruiting non-financial supporters to agree upon a universal basic disclosure template for new token projects.
+
+The ICO Governance Foundation (IGF), a new industry standards body, has proposed the filing of a three-point disclosure form, the IGF-1, which would serve as a token project’s basic disclosures document. Another new venture, Messari, will centrally manage the IGF-1 registry initially, but its contents will be made immediately available via a GPL. Our plan is to later transfer oversight and maintenance of the registry to a decentralized network.
+
+Our initial ask is simple. To start, we are collecting: 1) Project descriptions (missions, org structures, and verified web addresses), 2) “Cap table snapshots” that outline a project’s anticipated initial and fully-diluted token distribution, and 3) “Token treasury” policies that specify how a project plans to manage its fundraising balances and reserved tokens.
+
+Amidst the speculative fervor for cryptoassets, it is critical we develop better transparency and self-regulatory standards for the ecosystem, and that we ensure projects follow through on their promises to backers. From these modest three-point disclosures, we can build a robust, self-regulating registry of projects that promotes data standardization and consumer protection.
+
+Standards Body: The ICO Governance Foundation (Miko Matsumura)
+Registry Manager: Messari (Ryan Selkis)
+*Supporting Orgs: [TBU]
+
+Ask: 
+We have received tremendous interest and “philosophical” support for this project in a short period of time. Now we are ironing out the specific asks we would like to make of each project. The “one pager” below is an MVP on which we can build a universal token data library.
+
+We estimate it would take projects less than one hour to aggregate (with source links / footnotes) the information outlined. 
